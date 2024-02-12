@@ -1,0 +1,90 @@
+
+Q1
+	i) (b) Inheritance 
+
+	ii) (a) relational
+
+	iii) (d) conditional operator 
+
+	iv) a) Boxing 
+
+	v) b) 20 bytes 
+
+	vi) (b) nextDouble()
+
+	vii) (c) case
+
+	viii) (b) 11.0
+
+	ix) (d) syntax
+
+	x) (a) X[4]
+
+	xi) (d) able 
+
+	xii) (c) Character
+
+	xiii) (a) java.lang 
+
+	xiv) (b) Polymorphism
+
+	xv) (a) Only 1. 
+
+	xvi) (b) 0
+
+	xvii) (d) Assertion (A) is false and Reason (R) is true
+
+	xviii) (b) Data members and Member methods
+
+	xix) (A) (a) Both Assertion (A) and Reason (R) are true and Reason (R) is a correct explanation of Assertion (A)
+
+	xx) (b) 1 
+
+Q2 
+	i) Math.pow(p + q, 2)
+
+	ii) 10 
+
+	iii) 
+	boolean dh = true;
+	boolean cr = true;
+	if (dh && cr)
+	System.out.println("You can go out");
+	else
+	System.out.println("You cannot go out"); 
+
+	iv) Logical error (not producing the expected result)
+	void triangle(double b, double h)
+	{ 
+		double a;
+		a = 1.0/2 * b * h; 
+		System.out.println("Area="+a);
+	}
+
+	v) 
+	loop runs - 5 times
+	y = 15
+
+
+	vi) 
+	a) 3 
+	b) 13 
+
+	vii)
+	any two of 
+	break, continue, return
+
+	viii) 
+	20*23
+
+
+	ix) 
+	a) Integer varible : 0
+	b) String : null
+
+
+	x) 
+	a) 7
+	b) first index: 0
+	last index : 6 
+
