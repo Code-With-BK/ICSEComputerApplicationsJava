@@ -1,0 +1,87 @@
+answers.txt
+
+Q1
+	i) (b) Inheritance
+
+	ii) (c) logical 
+
+	iii) (b) nextLine()
+
+	iv) (c) import 
+
+	v) (c) 4.0 
+
+	vi) (b) break
+
+	vii) (c) infinite 
+
+	viii) (d) char check (int x)
+
+	ix) (a) 1
+
+	x) (b) 20 22
+
+	xi) (a) concat(String)
+
+	xii) (b) POS 
+
+	xiii) (c) explicit
+
+	xiv) (d) java byte code
+
+	xv) (b) Syntax
+
+	xvi) (a) 20
+	         40
+
+	xvii) (b) Pure method 
+
+	xviii) (c) Unboxing 
+
+	xix) (d) 16 bits
+
+	xx) (a) Static method
+
+Q2 
+	i) Math.pow(a + b, x)
+
+	ii) 40
+
+	iii) 
+	for( int i=9; i>=0; i-- ) {
+		System.out.print(i);
+	}
+	
+	iv)
+	a) 'A'
+	b) false
+
+	v) 
+		int m = 400;
+		double ch = 0;
+		if( m>300 ) {
+			ch = (m / 10.0) * 2;
+		}
+		else {
+			ch = (m / 20.0) - 2;
+		}
+
+	vi) 
+	9 
+	2
+	
+	vii)
+	a) 8
+	b) 32 
+
+
+	viii) 
+	a) 7
+	b) 72
+
+	ix) 
+	a) object
+	b) constructor
+	
+	x) n = 105 
+	
