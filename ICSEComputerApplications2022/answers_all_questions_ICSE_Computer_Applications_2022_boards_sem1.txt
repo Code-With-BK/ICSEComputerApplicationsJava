@@ -1,0 +1,117 @@
+Answers to all Questions of ICSE Computer Applications 2022 Boards Paper Semester 1 
+
+Q1
+	i) (a) class
+
+	ii) (a) float 
+
+	iii) (b) 8.0
+
+	iv) (a) final 
+
+	v) (b) Syntax error
+
+
+Q2
+	i) (b) new
+
+	ii) (c) unary
+
+	iii) (b) 66
+
+	iv) (c) non-static
+
+	v) (a) Actual parameters
+
+Q3
+	i) (c) Constructor overloading
+
+	ii) (c) void 
+
+	iii) (a) Encapsulation
+
+	iv) (b) break
+
+	v) (b) source code
+
+
+Q4
+	i) (b) False
+
+	ii) (a) True
+
+	iii) (b) False
+
+	iv) (a) True
+
+	v) (a) True
+
+
+Q5
+	i) (a) >= (rest are arithmetic operators)
+
+	ii) (d) String
+
+	iii) (d) while()
+
+	iv) (c) nextString
+
+	v) (c) Inheritance
+
+Q6 
+	i) (a) 11
+
+	ii) (c) 4
+
+	iii) (a) YES
+
+	iv) (b) Any software
+
+	v) (a) 43210
+
+Q7
+	i) (a) Number
+
+	ii) (b) n>0
+
+	iii) (c) n%10; 
+
+	iv) (b) n/10;
+
+	v) (a) double x=0.5
+
+	vi) (b) x<=5.0
+
+Q8 
+	i) (c) util
+
+	ii) (a) obj.nextDouble(); [nextFloat is okay too]
+
+	iii) (a) per>=90
+
+	iv) (b) "NOT AWARDED";
+
+	v) (a) display()
+
+	vi) (a) Student();
+
+
+Q9 
+ i) (a) int i = 1
+
+ ii) (b) i<n
+
+ iii) (a) n%i=0
+
+ iv) (b) s>n
+
+
+Q10
+ 	i) (c) Java Virtual Machine
+
+ 	ii) (a) Compiled and interpreted
+
+ 	iii) (b) Byte code
+
+ 	iv) (a) Interpreter 
+
