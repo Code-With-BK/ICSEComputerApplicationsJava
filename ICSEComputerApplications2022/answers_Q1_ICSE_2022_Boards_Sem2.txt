@@ -1,0 +1,25 @@
+Answers to Q1 of ICSE Computer Applications 2022 Boards Paper Semester 1 
+
+
+Q1
+	i) b) boolean 
+
+	ii) (d) toUpperCase(char) 
+
+	iii) (b) 5
+
+	iv) (c) Float
+
+	v) (b) Wrapper
+
+	vi) (a) GoodDay (typo. c should be lowercase in concat)
+
+	vii) (b) N-1 (subscript is another name for index)
+
+	viii) (a) private
+
+	ix) (b) 150.0
+
+	x) (c) Luck
+
+
