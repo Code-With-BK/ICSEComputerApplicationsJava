@@ -1,0 +1,82 @@
+
+Q1
+	i) (c) Polygon is the class and picture are objects
+
+	ii) (a) b 
+
+	iii) (c) 6 
+
+	iv) (d) private
+
+	v) (b) 13
+
+	vi) (b) \t
+
+	vii) (c) a
+
+	viii) (b) 11.0
+
+	ix) (c) isLetterOrDigit(char) 
+
+	x) (d) java
+
+	xi) (b) 24
+
+	xii) (d) double
+
+	xiii) (b) 1 and 2
+
+	xiv) (a) Impure method 
+
+	xv) (d) Yellow
+
+	xvi) (a) call by reference
+
+	xvii) (b) fruit mango = new fruit();
+
+	xviii) (d) Both are false
+
+	xix) (a) 6 
+
+	xx) (d) Math.round()
+
+Q2 
+	i) (Math.abs(a+b))/(Math.sqrt(a*b + b*b))
+
+	ii) x = 4
+
+	iii) 
+	for( x=10, y=20; x<=20; x++ ){
+		y++;
+	}
+	System.out.println(x*y);
+	
+
+	iv) 
+	Loop runs 0 times
+	20
+
+	v) 100
+	
+	vi) 
+	a) 4x3
+	b) 14
+
+	vii) 
+	boxing - converting a primitive data type to ab object of its corresponding wrapper type
+	unboxing - converting an object of wrapper type to its corresponding primitive type
+
+	viii) 
+	int x = a.compareTo(b);
+	Output: -3
+
+	ix) 
+	(a) polymorphism
+	(b) 
+	10
+	30
+
+	
+	x) 
+	a) java.lang
+	b) java.util.Scanner sc = new java.util.Scanner(System.in);
